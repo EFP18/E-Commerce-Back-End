@@ -5,7 +5,7 @@
   https://opensource.org/licenses/MIT
 
   GitHub: https://github.com/EFP18/E-Commerce-Back-End
-  Video Walk-Through: 
+  ![Video Walk-Through](https://drive.google.com/file/d/1iYCDobA7heymm4wU5gyKGA_F2mMqOaXl/view)
 
   ## Table of Contents
 
